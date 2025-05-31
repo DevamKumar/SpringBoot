@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d96b628-831b-4303-9e7d-bcb5cedee711" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MongoSpringIOApp/src/main/java/com/MongoSpringIOApp/MongoSpringIOApp/Controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MongoSpringIOApp/src/main/java/com/MongoSpringIOApp/MongoSpringIOApp/Model/IOApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MongoSpringIOApp/src/main/java/com/MongoSpringIOApp/MongoSpringIOApp/Repository/IOAppRepo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DevamKumar"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DevamKumar/SpringBoot.git",
+    "accountId": "10a7615c-89bf-409f-bec0-cfeef73a5944"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2xqcsAQyqCOZCHSCAi8dN8mRwo7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.simple_input_output_application_with_mongoDB_integrated_init [:com.example.simple_input_output_application_with_mongoDB_integrated_init.SimpleInputOutputApplicationWithMongoDbIntegratedInitApplication.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d96b628-831b-4303-9e7d-bcb5cedee711" name="Changes" comment="" />
+      <created>1748669249136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748669249136</updated>
+    </task>
+    <servers />
+  </component>
+</project>
